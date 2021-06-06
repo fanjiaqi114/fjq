@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');h1 {
+    color: #864f3e;
+    font-size: 4rem;
+  }
+  .item {
+    border: 1px solid #aaa;
+    padding: 1rem;
+  }
+  
+  .selected {
+    background-color: #aaa;
+  }
+
+
+.container{
+  width: 100vw;
+  height: 100vh;
+  color: white;
+  background-image: url('/img/k2.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+
+
+}
+.container h2{
+  font-size: 50px;
+  color: rgb(226, 222, 222);
+  padding-left: 500px;
+  padding-top: 100px;
+  font-family: 'Roboto', sans-serif;
+  
+}
+.container h1{
+  font-size: 80px;
+  color: white;
+  padding-left: 660px;
+  font-family: 'Roboto', sans-serif;
+  
+  
+}
+
+
+
+.container button{
+  width: 50px;
+  height: 20px;
+  background-color:transparent;
+  color: white;
+  border-color: transparent;
+}
+.container li{
+  padding-left: 1040px;
+  padding-top: 20px;
+}
+
+
+
+.contain3{
+  width: 100px;
+  height: 30px;
+  background-color:white;
+  background-image:url('/img/jian.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+  position: relative;
+  left: 1165px;
+  
+}
+.contain3 button{
+  color:red;
+  font-family: 'Roboto', sans-serif;
+  font-size: 19px;
+  position: relative;
+  left: 30px;
+  
+
+}
+
+
+.contain button{
+  width: 20px;
+  height: 20px;
+  background-color:white;
+  opacity: 0.5;
+  padding: 20px;
+  border-radius:50%;
+  position: relative;
+  top: 350px;
+  left: 50px;
+  
+}
+.contain2{
+  position: relative;
+  top: 297px;
+  left: 65px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
